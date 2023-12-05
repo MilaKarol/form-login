@@ -1,0 +1,22 @@
+/* BOTÃO ENTRAR */
+.btn-primary:hover {
+    cursor: pointer;
+    transition: .3s;
+    transform: scale(1.2) translateY(-5px);
+    border-radius: 0.5rem;
+    border: none;
+    background-color: rgb(238, 101, 243) ;
+    color: rgb(255, 255, 255);
+    -webkit-box-shadow: 0 3px 10px 0 rgb(0, 0, 0);
+    text-shadow: 0px 0px 5px rgb(255, 255, 255);
+}
+
+btn-primary {
+    border-radius: 0.5rem;
+    border: none;
+    box-shadow: 3px 3px 8px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+}
